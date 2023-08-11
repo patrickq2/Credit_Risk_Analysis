@@ -1,1 +1,3 @@
 # Credit_Risk_Analysis
+
+the Goal of this project was to find implement a Machine Learning model to predict if a client would or would not default on a loan. Currently a Logistic Regression model was used through the SkLearn library and an 86% Accuracy was obtained through hyperparamter tuning. moving forward, may go back to project to implement other ML models to see if a higher accuracy can be obtained. done in summer of 2023.
